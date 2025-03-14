@@ -1,5 +1,4 @@
-### Olá, sou tecnico de T.I. 🔥🔥🔥
-
+### 
 
 ![fefe GitHub stats](https://github-readme-stats.vercel.app/api?username=yzfefe&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcruzz&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
 
